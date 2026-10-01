@@ -315,6 +315,7 @@ Harika_Lankalapalli_Resume.pdf
 
 * Resume Worded
 * Jobscan
+* [ResumeAI](https://withresumeai.com/) — free ATS checker (3/day anonymous, 10/day free account; State of ATS 2026 — Workday 37.9%)
 * LinkedIn Resume Builder
 * Canva Resume Templates
 * Microsoft Resume Templates
